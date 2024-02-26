@@ -20,24 +20,24 @@ O exercício consiste nos seguintes componentes:
 
 A estrutura do projeto é organizada da seguinte forma:
 
-src/
-|__ components/
-   |__ Profile/
-      |__ index.jsx
-      |__ styles.module.css
-   |__ ProfileSection/
-      |__ index.jsx
-      |__ styles.module.css
-   |__ Title/
-      |__ index.jsx
-      |__ styles.module.css
-   |__ LinkButton/
-      |__ index.jsx
-      |__ styles.module.css
-|__ App.jsx
-|__ main.jsx
-|__ styles/
-   |__ globals.css
+- **src/**
+  - **components/**
+    - **Profile/**
+      - `index.jsx`
+      - `styles.module.css`
+    - **ProfileSection/**
+      - `index.jsx`
+      - `styles.module.css`
+    - **Title/**
+      - `index.jsx`
+      - `styles.module.css`
+    - **LinkButton/**
+      - `index.jsx`
+      - `styles.module.css`
+  - `App.jsx`
+  - `main.jsx`
+- **styles/**
+  - `globals.css`
 
 ## Como Executar
 
